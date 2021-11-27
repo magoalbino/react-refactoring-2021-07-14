@@ -6,12 +6,6 @@ O React está em contante evolução, assim como os projetos que utilizam esta b
 
 Nesse vídeo iremos adotar algumas estratégias para tornar o código mais atual, apto a usar novas funcionalidades da biblioteca, com melhor manutenibilidade, melhor desempenho e experiência do usuário.
 
-## Expert
-
-| [<img src="https://avatars.githubusercontent.com/u/51406124?s=400&u=f963ab81ef7f1c44c372101e57a57b42963e5beb&v=4" width="75px;"/>](https://github.com/thiagoromendes) |
-| :-: |
-|[Thiago Mendes](https://github.com/thiagoromendes)|
-
 ## Roteiro
 
 ### Estrutura inicial:
@@ -43,4 +37,10 @@ Nesse vídeo iremos adotar algumas estratégias para tornar o código mais atual
 
 ### Não refatorado
 <img src="https://github.com/thiagoromendes/thiagoromendes/blob/upload-images/Captura%20de%20tela%20de%202021-07-05%2013-49-18.png" />
+
+## Créditos
+
+| [<img src="https://avatars.githubusercontent.com/u/51406124?s=400&u=f963ab81ef7f1c44c372101e57a57b42963e5beb&v=4" width="75px;"/>](https://github.com/thiagoromendes) |
+| :-: |
+|[Thiago Mendes](https://github.com/thiagoromendes)|
 
